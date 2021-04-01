@@ -1,7 +1,7 @@
 # Demostracion markdown (Titulo h1)
 
-## Titulo h2
-### Titulo h3
+## Titulo h2.
+### Titulo h3.
 ---
 > "Cita textual de algun autor."
 ___
