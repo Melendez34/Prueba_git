@@ -22,4 +22,6 @@ Un parrafo normal.
 
 ## Subtitulo
 
-Para mostrar modificacion de mi archivo
+## Local development
+
+1. Open index.html in your browser.
